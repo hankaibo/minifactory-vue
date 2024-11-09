@@ -1,0 +1,7 @@
+/* color palette from <https://github.com/vuejs/theme> */
+:root {
+  --phone-header-height: 48px;
+  --bg-color-demo: #fff;
+  --phone-body-height: 667px !important;
+  --bg-color-demo: #fff;
+}
